@@ -1,2 +1,5 @@
 # Work-Place-Safety-Incident-And-Compliance-Manager
 Developed a full-stack web application to report, track, and manage workplace safety incidents, with simple user access, status updates, and basic compliance tracking to improve safety.
+This project is a full stack web application designed to help manage workplace safety in a simple and organized way. It allows users to report safety incidents by entering details such as the type of issue, location, and description. All the information is stored in a central database so it can be easily accessed and tracked.
+The system also supports an admin side where reported incidents can be reviewed, updated, and marked as resolved. It helps in keeping track of safety rules and ensures that necessary actions are taken on time. The application has a clean and user friendly interface so that anyone can use it without difficulty.
+The frontend is used to interact with the system, while the backend handles data processing and user authentication. The database stores all the records securely. Overall, this project helps improve workplace safety and shows practical full stack development skills by solving a real world problem.
